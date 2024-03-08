@@ -46,4 +46,4 @@ async def on_raw_reaction_add(payload):
             print(f'Usuario {member.display_name} verificado con el rol {role.name}')
 
 # Inicia el bot con tu token
-bot.run('MTE3NTM3MzcyODM2NDg5NjMxNg.GxjoUw.fK3faGQlFJtmySGjieHSuMTi0xAtWu_FysZcyM')
+bot.run('put token here')
